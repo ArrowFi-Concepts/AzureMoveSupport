@@ -1,3 +1,7 @@
+Version 1.1 writes possible move issues to separate issues.csv
+- All resources with no move support 
+- loadbalancers and virtualnetworkgateways (SKU has to checked manually)
+
 # AzureMoveSupport
 Check if your Azure resources support move operation to another subscription
 Move operation support for resources:<br>
